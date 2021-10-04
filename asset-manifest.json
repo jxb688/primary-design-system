@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/primary-design-system/static/css/main.e0c2ab8c.chunk.css",
+    "main.js": "/primary-design-system/static/js/main.866b5bd0.chunk.js",
+    "main.js.map": "/primary-design-system/static/js/main.866b5bd0.chunk.js.map",
+    "runtime-main.js": "/primary-design-system/static/js/runtime-main.4488f4bf.js",
+    "runtime-main.js.map": "/primary-design-system/static/js/runtime-main.4488f4bf.js.map",
+    "static/js/2.15d531cb.chunk.js": "/primary-design-system/static/js/2.15d531cb.chunk.js",
+    "static/js/2.15d531cb.chunk.js.map": "/primary-design-system/static/js/2.15d531cb.chunk.js.map",
+    "static/js/3.380fb52a.chunk.js": "/primary-design-system/static/js/3.380fb52a.chunk.js",
+    "static/js/3.380fb52a.chunk.js.map": "/primary-design-system/static/js/3.380fb52a.chunk.js.map",
+    "index.html": "/primary-design-system/index.html",
+    "static/css/main.e0c2ab8c.chunk.css.map": "/primary-design-system/static/css/main.e0c2ab8c.chunk.css.map",
+    "static/js/2.15d531cb.chunk.js.LICENSE.txt": "/primary-design-system/static/js/2.15d531cb.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/primary-design-system/static/media/drip.be839268.png",
+    "static/media/goop.4827b6fc.png": "/primary-design-system/static/media/goop.4827b6fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4488f4bf.js",
+    "static/js/2.15d531cb.chunk.js",
+    "static/css/main.e0c2ab8c.chunk.css",
+    "static/js/main.866b5bd0.chunk.js"
+  ]
+}
